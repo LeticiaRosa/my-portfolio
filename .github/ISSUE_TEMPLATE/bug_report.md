@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-name: 🐛 Relatar um Bug
-about: Relate um problema encontrado no sistema
-title: "[BUG] Descreva o problema"
-labels: bug
-assignees: ''
+Name: 🐛 Relatar um Bug
+About: Relate um problema encontrado no sistema
+Title: "[BUG] Descreva o problema"
+Labels: bug
+Assignees: ''
 
 ## 🐛 Descrição do problema
 Descreva claramente o problema.
